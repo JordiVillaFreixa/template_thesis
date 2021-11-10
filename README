@@ -1,0 +1,3 @@
+% $Id: README,v 1.1 2009/06/22 13:42:48 jvilla Exp $
+In order to obtain the thesis in pdf format execute "python thesisCreator.py"
+Alternatively, you can directly use Atom and compile the LaTeX code from there
